@@ -1,13 +1,27 @@
 package day1;
+import java.util.Scanner;
 
 public class Ldjava {
 
 	public static void main(String[] args) {
-		int a,b,c;
-		a=Integer.parseInt(args[0]);
-		b=Integer.parseInt(args[0]);
-		c=a+b;
-		System.out.println("Addition:"+c);
+		
+		char ch = 'a';
+		System.out.println(ch);
+
+	
+		char ch1 = 65;
+		System.out.println(ch1);
+
+
+		char var1 = '\u00A7';
+		System.out.println(var1);
+
+		char var2 = '\u20AC';
+		System.out.println(var2);
+
+		
+		int a = 'A';
+		System.out.println(a);
 
 	}   
 
