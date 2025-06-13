@@ -13,8 +13,6 @@ public class Ldjava {
 		System.out.println("value 3=" + value3);
 		System.out.println("value 4=" + value4);
 		
-		int marker = 512;
-		
 
 	}   
 
