@@ -25,5 +25,9 @@ public class Student {
 	public void show() {
 		System.out.println(id+name+age);
 	}
+	@Override
+	public String toString() {
+		return "Student [id=" + id + ", name=" + name + ", age=" + age + "]";
+	}
 
 }

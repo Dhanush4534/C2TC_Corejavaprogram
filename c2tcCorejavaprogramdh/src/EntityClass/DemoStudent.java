@@ -7,7 +7,16 @@ public class DemoStudent {
 		st.setAge(20);
 		st.setId(101);
 		st.setName("DEVA");
-		System.out.println("ID:"+st.getAge());
+		System.out.println(st);
+	
+		
+		
+		Student sts = new Student();
+		sts.setAge(10);
+		sts.setId(100);
+		sts.setName("Kumar");
+		
+		
 		
 	
 
