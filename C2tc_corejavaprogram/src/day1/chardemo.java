@@ -14,7 +14,7 @@ public class chardemo {
 				System.out.println(var2);
 				int a = 'A';
 				System.out.println(a);
-			}
+				System.out.println(a);			}
 		
 
 	}
