@@ -11,9 +11,6 @@ public class identityfiers {
 				String studentName="Aniket";
 				System.out.println("value is : "+ studentName);
 			}
-
-		
-		
-			}
+}
 
 
